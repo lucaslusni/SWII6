@@ -1,0 +1,35 @@
+﻿@model IEnumerable<TP02_Comex.Models.Bl>
+
+@{
+    ViewData["Title"] = "Bl Index";
+}
+
+<h1>Bl Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Numero</th>
+            <th>Consignee</th>
+            <th>Navio</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Numero</td>
+                <td>@item.Consignee</td>
+                <td>@item.Navio</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID_BL">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID_BL">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID_BL">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create">Create New</a>

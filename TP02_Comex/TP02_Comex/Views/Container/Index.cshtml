@@ -1,0 +1,24 @@
+﻿@model IEnumerable<CONTAINER>
+
+<h2>Listagem de Containers</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Número Container</th>
+            <th>Tipo</th>
+            <th>BL Associado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var container in Model)
+        {
+            <tr>
+                <td>@container.Numero</td>
+                <td>@container.CONTAINER_TYPE</td>
+                <td>@container.Numero</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")" class="btn btn-primary">Adicionar Container</a>

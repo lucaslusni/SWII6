@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|c:\\users\\lusni\\documents\\tp02_comex\\tp02_comex\\views\\container\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|solutionrelative:tp02_comex\\views\\container\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|c:\\users\\lusni\\documents\\tp02_comex\\tp02_comex\\views\\container\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|solutionrelative:tp02_comex\\views\\container\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|c:\\users\\lusni\\documents\\tp02_comex\\tp02_comex\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|solutionrelative:tp02_comex\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|c:\\users\\lusni\\documents\\tp02_comex\\tp02_comex\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|solutionrelative:tp02_comex\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|c:\\users\\lusni\\documents\\tp02_comex\\tp02_comex\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C7EECC-AE14-444A-AA17-67245F78F61D}|TP02_Comex\\TP02_Comex.csproj|solutionrelative:tp02_comex\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CONTAINER.cs",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Models\\CONTAINER.cs",
+              "RelativeDocumentMoniker": "TP02_Comex\\Models\\CONTAINER.cs",
+              "ToolTip": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Models\\CONTAINER.cs",
+              "RelativeToolTip": "TP02_Comex\\Models\\CONTAINER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:05:30.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Views\\Container\\Create.cshtml",
+              "RelativeDocumentMoniker": "TP02_Comex\\Views\\Container\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Views\\Container\\Create.cshtml",
+              "RelativeToolTip": "TP02_Comex\\Views\\Container\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T17:03:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TP02_Comex\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TP02_Comex\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T17:01:29.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Views\\Home\\create.cshtml",
+              "RelativeDocumentMoniker": "TP02_Comex\\Views\\Home\\create.cshtml",
+              "ToolTip": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Views\\Home\\create.cshtml",
+              "RelativeToolTip": "TP02_Comex\\Views\\Home\\create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T16:58:33.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Views\\Container\\Index.cshtml",
+              "RelativeDocumentMoniker": "TP02_Comex\\Views\\Container\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lusni\\Documents\\TP02_Comex\\TP02_Comex\\Views\\Container\\Index.cshtml",
+              "RelativeToolTip": "TP02_Comex\\Views\\Container\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T16:57:36.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

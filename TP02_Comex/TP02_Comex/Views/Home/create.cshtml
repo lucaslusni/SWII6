@@ -1,0 +1,32 @@
+﻿@model TP02_Comex.Models.Bl
+
+@{
+    ViewData["Title"] = "Create Bl";
+}
+
+<h1>Create Bl</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Numero" class="control-label"></label>
+        <input asp-for="Numero" class="form-control" />
+        <span asp-validation-for="Numero" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Consignee" class="control-label"></label>
+        <input asp-for="Consignee" class="form-control" />
+        <span asp-validation-for="Consignee" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Navio" class="control-label"></label>
+        <input asp-for="Navio" class="form-control" />
+        <span asp-validation-for="Navio" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
